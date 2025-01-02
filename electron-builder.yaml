@@ -1,6 +1,6 @@
 appId: "github.com/K4viyamato/nextron"
 productName: "Nextron"
-copyright: "Copyright (c) 2023 k4viyamato"
+copyright: "Copyright (c) 2025 k4viyamato"
 win:
   target: ["dir", "portable", "zip"]
   icon: "resources/icon.ico"
