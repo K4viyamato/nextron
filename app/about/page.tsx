@@ -27,14 +27,9 @@ const AboutPage: React.FC = () => {
   };
 
   useEffect(() => {
-
     setLoading(true);
     setError(null);
-
     fetchData();
-    
-  
-    
   }, [])
   
 

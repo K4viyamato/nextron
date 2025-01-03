@@ -17,7 +17,7 @@ export default function RootLayout({
       <html lang="en">
          <body>
             <div className="w-full h-full flex justify-center items-center flex-col">
-               <h1 className="text-4xl">Hello geri Kunja!!</h1>
+               <h1 className="text-4xl">Hello There!!</h1>
                <Link href="about">about</Link>
             </div>
             {children}
